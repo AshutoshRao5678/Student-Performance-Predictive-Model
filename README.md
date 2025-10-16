@@ -58,4 +58,4 @@ Student-Performance-Predictive-Model/
 
 ## Author
 **Ashutosh Rao**  
-Internship Project – Predictive Modeling
+Project – Predictive Modeling
